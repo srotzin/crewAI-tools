@@ -125,3 +125,5 @@ from .zapier_action_tool.zapier_action_tool import ZapierActionTools
 from .parallel_tools import (
     ParallelSearchTool,
 )
+
+from .hiveexchange_tool import HiveExchangeMarketsTool, HiveExchangeBetTool, HiveGenesisFeedTool, hiveexchange_tools
